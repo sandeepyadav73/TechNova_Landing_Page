@@ -51,7 +51,7 @@ To view or edit this project locally:
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd technova-landing-page
+    cd TechNova_Landing_Page
     ```
 
 3.  **Open the website:**
