@@ -6,6 +6,7 @@
 
 This repository contains the source code for the **TechNova** landing page, a modern, professional, and fully responsive website built from scratch. This project serves as a practical demonstration of core web development skills, focusing on semantic HTML structure and advanced CSS layout techniques.
 
+<img width="959" height="442" alt="image" src="https://github.com/user-attachments/assets/01aee600-5246-48fa-9e3b-970d316ad657" />
 
 
 ## ✨ Key Features
